@@ -1,0 +1,11 @@
+= toki pona Course
+
+. xref:course-outline.adoc[]
+
+. xref:lesson-1-intro.adoc[]
+
+. xref:examples.adoc[]
+
+. xref:notes.adoc[]
+
+. xref:vocab.adoc[]
