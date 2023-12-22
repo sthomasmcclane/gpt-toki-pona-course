@@ -2,7 +2,7 @@
 
 ## Prompt
 
-I want you to help me learn Toki Pona during my Christmas break which starts tomorrow (22 December 2023) and lasts until the 15th of January 2024.
+I want you to help me learn Toki Pona during my Christmas break which lasts 25 days.
 
 I need you to consider the best approach to learning this language in that time frame and create lessons that will guide me through the process.
 
