@@ -47,5 +47,5 @@ Correction::
 Toki! Nimi mi li Scott.
 
 Explanation::
-The particle "mi" is typically used to represent the pronoun "I" or "me" and is placed before the verb "nimi."
-'mi' =/= 'my'
+The particle "mi" is typically used to represent the pronoun "I" or "me" and is placed before the verb "nimi." +
+Also I mistyped 'li' as 'le' due to the way I'm (incorrectly) pronouncing it.
