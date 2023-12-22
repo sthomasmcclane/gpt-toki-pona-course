@@ -1,6 +1,6 @@
-# Toki Pona Course by ChatGPT
+= Toki Pona Course by ChatGPT
 
-## Prompt
+== Prompt
 
 I want you to help me learn Toki Pona during my Christmas break which lasts 25 days.
 

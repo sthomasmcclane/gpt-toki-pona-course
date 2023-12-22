@@ -1,0 +1,51 @@
+= Lesson 1: Introduction to Toki Pona
+
+== Overview of Toki Pona
+
+Toki Pona is a constructed language designed to be simple and expressive. It was created by Canadian linguist and translator Sonja Elen Kisa in 2001. The language has a small vocabulary of around 120 core words and is known for its minimalistic grammar.
+
+== Basic Pronunciation and Writing System
+
+=== Pronunciation
+
+Toki Pona pronunciation is straightforward, and it generally follows the sound patterns of English. Here are some key points:
+
+Consonants:: Pronounced similar to English.
+
+Vowels:: Pronounced as in Italian or Spanish.
+
+Stress:: Generally falls on the first syllable.
+
+=== Writing System
+
+Toki Pona uses a Latin-based alphabet, and each letter represents a single sound. There are no uppercase letters.
+
+== Practice Exercise: Greetings and Introductions
+
+Now, let's practice some basic greetings and introductions in Toki Pona:
+
+. *Greetings:*
+   - Hello: *toki!*
+   - Hi: *toki pona!* (literally "good language")
++
+NOTE: This greeting is a way of wishing the other party a happy linguistic experience, akin to 'Good conversation'. It's weird and cool.
+
+. *Introductions:*
+   - My name is [your name]: *nimi mi li [your name].*
+   - What is your name? *nimi sina li seme?*
+
+== Homework
+
+- Practice the greetings and introductions.
+- Write a short introduction about yourself in Toki Pona.
+
+[quanda]
+Write a short introduction about yourself in Toki Pona::
+Toki! Mi nimi le Scott.
+
+Correction::
+Toki! Nimi mi li Scott.
+
+Explanation::
+The particle "mi" is typically used to represent the pronoun "I" or "me" and is placed before the verb "nimi."
+'mi' =/= 'my'
