@@ -16,7 +16,7 @@ nimi:: Name. +
 _Mnemonic_: Think of 'name' in German (Nah-meh).
 
 pona:: Good, positive. +
-_Mnemonic_:
+_Mnemonic_: Think Latin root 'bona'.
 
 seme:: Interrogative equating to 'what' or 'which'. +
 _Mnemonic_: Think of 'same' or 'seem' which are objective.
