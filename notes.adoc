@@ -1,0 +1,38 @@
+= Notes
+
+== Sentence structure
+
+Adjectives come after nouns in the sentence.
+
+== Alphabet
+
+toki pona only uses 14 letters in its alphabet:
+
+[source.copy]
+----
+a,e,i,j,k,l,m,n,o,p,s,t,u,w
+----
+
+== Capitalisation
+
+toki pona only uses capitals for proper names (person names) and borrowed words (which are usually names).
+
+== Sentence structure
+
+<subject> <verb> <object>.
+
+== Tenses
+
+Are not used in toki pona.
+
+== Numbers
+
+Are not used in toki pona.
+
+== Genders
+
+Are not used in toki pona.
+
+== Single first- or second-person subjects
+
+If a subject of a sentence is only 'mi' (me), or 'sina' (you) then the particle 'li' is omitted for simplicity.

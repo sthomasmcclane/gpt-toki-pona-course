@@ -1,19 +1,78 @@
 = Vocab
 
-jan:: Interrogative equating to 'who'. +
+ala:: Negation of associated content word.
+_Mnemonic_:
+
+jan (yahn):: Person, or 'who'. +
 _Mnemonic_: 'jan' is a name, therefore 'who' is fitting.
 
-li:: Particle that delineates the sentence subject from the predicate. +
+e (eh):: Signals direct objects.
+_Mnemonic_:
+
+en:: Introduces a new subject.
+_Mnemonic_:
+
+ijo:: Thing, object, stuff, item, something, anything.
+_Mnemonic_:
+
+ike (ee-kay):: Bad, wrong, unnecessary.
+_Mnemonic_: Ike Turner?
+
+jaki (yah-ki):: Unpleasant.
+_Mnemonic_: Yucky!
+
+jelo:: Yellow.
+_Mnemonic_: Homophonic.
+
+kiwen:: Rock, brick, stone, pebble, etc.
+_Mnemonic_:
+
+lape (lah-pei):: Sleep, rest.
+_Mnemonic_:
+
+laso:: Blue.
+_Mnemonic_:
+
+li:: Particle that everything following as a verb. +
 _Mnemonic_: 'li' is the first part of 'like' which is, like, almost punctuation these days.
+
+loje (lo-jee):: Red.
+_Mnemonic_:
 
 lon:: Interrogative equating to 'where'. +
 _Mnemonic_: 'lon' is similar to 'yon' (yonder).
 
-mi:: Me. +
+mi:: First person pronoun; me, us, my, ours. +
 _Mnemonic_: It's a homophone.
+
+moku:: Eating, food, drinking.
+_Mnemonic_:
+
+mu:: Animal noise.
+_Mnemonic_:
+
+mute (mooty):: More than two. Many.
+_Mnemonic_:
 
 nimi:: Name. +
 _Mnemonic_: Think of 'name' in German (Nah-meh).
+
+o:: Call attention. "Hey!"
+_Mnemonic_: Oi?
+
+olin (oh-lean):: Love, romance, compassion.
+
+ona:: Third-person pronoun. Replaces he/she/it/they +
+_Mnemonic_: NFI
+
+pakala:: Curse, aggravation or annoyance. "Damn!"
+_Mnemonic_:
+
+pilin:: Feel, feeling.
+_Mnemonic_: "Feelin'"
+
+pimeja:: Black.
+_Mnemonic_:
 
 pona:: Good, positive. +
 _Mnemonic_: Think Latin root 'bona'.
@@ -21,13 +80,31 @@ _Mnemonic_: Think Latin root 'bona'.
 seme:: Interrogative equating to 'what' or 'which'. +
 _Mnemonic_: Think of 'same' or 'seem' which are objective.
 
+sini/sina:: Second-person pronoun. You, yours.
+_Mnemonic_: French 'su'?
+
+sitelen:: Simple. 'sitelen pona'.
+_Mnemonic_:
+
 tan:: Interrogative equating to 'why' or 'because'. +
 _Mnemonic_:
 
 tenpo:: Interrogative equating to 'when'. +
 _Mnemonic_: Remember the similarity to 'tempo' which kind of means time (temporal).
 
+telo:: Liquid, fluid, water.
+_Mnemonic_:
+
 toki:: Talk, speak, converse, language. +
 _Mnemonic_: Note the similarity to 'talk' (talkie).
+
+tu:: Two.
+_Mnemonic_: Homophone.
+
+walo:: White.
+_Mnemonic_: White Whale (walo).
+
+wan:: One.
+_Mnemonic_: It's homophonic.
 
 

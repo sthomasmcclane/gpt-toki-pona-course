@@ -1,0 +1,17 @@
+= Sentence examples
+
+[quanda]
+jan li moku e telo::
+People drink water.
+
+moku ona li pona::
+Their food is good.
+
+olin li pona::
+Love is good.
+
+moku mi li ike::
+My food is bad.
+
+mi jan pona sina::
+I am your friend.
