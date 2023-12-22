@@ -1,14 +1,14 @@
 = toki pona Course
 
-. xref:course-outline.adoc[]
+. xref:course-outline.adoc[Course outline]
 
-. xref:lesson-1-intro.adoc[]
+. xref:lesson-1-intro.adoc[Lesson 1: Introduction to toki pona]
 
-. xref:examples.adoc[]
+. xref:examples.adoc[Example sentences]
 
-. xref:notes.adoc[]
+. xref:notes.adoc[Notes]
 
-. xref:vocab.adoc[]
+. xref:vocab.adoc[Vocab/word list]
 
 == Prompt used
 
